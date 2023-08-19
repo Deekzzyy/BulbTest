@@ -8,7 +8,7 @@ A simple bult test with two buttons: ON and OFF
 
 
 ## Layout web
-![Web 1]()
+![Web 1](https://github.com/Deekzzyy/BulbTest/blob/main/assets/SiteModel.jpg)
 
 
 # Tecnologias utilizadas
